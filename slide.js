@@ -3,6 +3,7 @@
  * @author  Div_wang (gh110827@gmail.com)
  * @date    2015-06-23 18:38:15
  * @version 0.2.0
+ * 我来凑热闹的
  */
 
 function slide (config){
